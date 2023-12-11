@@ -6,16 +6,44 @@ Fog and Edge Computing have become crucial when it comes to connecting the gap b
 ## Prerequisites 
 Your machine should run Ubuntu **20.04 LTS** and **Python3**.
 
-You need a [working installation of docker](https://docs.docker.com/engine/install/ubuntu/). You can test your docker installation with:
+Before starting, we have to install docker, docker-compose and docker swarm on the infrastructure. 
+For more information, we suggest the official [documentation](https://docs.docker.com/).
+
+You can test your docker installation with:
 ```sh
 docker run hello-world
 ```
 
+Furthermore, the system executes some low-level commands in order to apply specific characteristics to the network. 
+For this reason, on each cluster of the swarm cluster, we should install the traffic control tool (tc-tool). 
+On Debian-based destributions, tc-tool comes bundled with iproute, so in order to install it you have to run:
+
+```bash
+apt-get install iproute
+```
+
+You need a [working installation of docker](https://docs.docker.com/engine/install/ubuntu/). 
+
 ## Fogify-Demo
+Preparing the demo application.
+
+Move to fogify-demo-master/application directory
+Run command
+
+```sh
+sudo sh ./build-image.sh
+```
+To run the taxi example in fogify: In directory fogify-demo-master/demo_files/ 
+run command 
+```sh
+docker-compose up
+```
 
 
 
 
+
+## Marvis
 
 ## Containernet
 As we had problems with containernet installation option 1, we procude with option 2:
