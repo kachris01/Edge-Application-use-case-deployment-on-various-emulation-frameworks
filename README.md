@@ -4,9 +4,29 @@ Fog and Edge Computing have become crucial when it comes to connecting the gap b
 
 
 ## Prerequisites 
-You need to have **Ubuntu 20.04 Focal Fossa**
+Your machine should run Ubuntu **20.04 LTS** and **Python3**.
 
 You need a [working installation of docker](https://docs.docker.com/engine/install/ubuntu/). You can test your docker installation with:
 ```sh
 docker run hello-world
+```
+
+##Containernet
+As we had problems with containernet installation option 1, we procude with option 2:
+You can build the container locally:
+
+```bash
+docker build -t containernet/containernet .
+```
+
+or alternatively pull the latest pre-build container:
+
+```bash
+docker pull containernet/containernet
+```
+
+You can then  start the containernet:
+
+```bash
+docker run --name containernet -it --rm --privileged --pid='host' -v /var/run/docker.sock:/var/run/docker.sock -v /home/$USER/Desktop/containernet/examples/basic_webserver/:/home/$USER/Desktop/containernet/examples/basic_webserver/ containernet/containernet bash
 ```
