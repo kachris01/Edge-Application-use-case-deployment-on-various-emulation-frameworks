@@ -1,0 +1,113 @@
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213a1e48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20c26b70>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21389f60>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d6d7f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21390f60>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213b52e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213a29b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213b5d30>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d48fd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d48748>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d62518>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d54a90>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d62b00>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213900b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d6dd68>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21210908>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d6d390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b2121e7f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213a1c88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fd4940>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21240438>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b2122b9e8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21235358>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21235e10>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b2121ef98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213b52b0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fa0ef0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d48e10>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fa00f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fafc88>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213b56a0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d48518>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d54630>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fafe48>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fb8898>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d620b8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d54208>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fb8eb8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21210cf8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213907f0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b2121e630>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213905c0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21390f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213a26d8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d6d358>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20d6d080>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b213a2c18>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21390f98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fb7fd0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b21390390>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20e0d320>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20e25a90>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fb7dd8>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fd4470>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20fd4f98>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20e328d0>: Failed to establish a new connection: [Errno 111] Connection refused',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20ed6f28>: Failed to establish a new connection: [Errno 111] Connection refused',))
+data is lost
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f1b20e323c8>: Failed to establish a new connection: [Errno 111] Connection refused',))

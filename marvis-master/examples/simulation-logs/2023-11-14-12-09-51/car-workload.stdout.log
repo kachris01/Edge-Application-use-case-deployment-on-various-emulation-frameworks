@@ -1,0 +1,256 @@
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ade4b70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ade4198>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf24a8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae006a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae10a20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf2748>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af24c18>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+2,"1/1/2018, 2:34:27 AM","1/1/2018, 2:47:23 AM",2,3.09,1,N,229,239,1,12.5,0.5,0.5,2.76,0,0.3,16.56,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae00d68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af336a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af33b70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af47470>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ade4748>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af24d68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b17a4a8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1854a8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ad7fc50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b185898>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b185b00>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b17ac88>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af47940>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b193630>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af43780>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae00048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae01160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b193b38>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b198be0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+2,"1/1/2018, 2:53:56 AM","1/1/2018, 3:19:49 AM",2,2.91,1,N,142,68,1,18,0.5,0.5,3.86,0,0.3,23.16,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1abeb8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3f3c50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af33a20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af24c50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b198048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae01eb8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2,"1/1/2018, 2:30:52 AM","1/1/2018, 3:03:20 AM",1,13.43,1,N,161,67,1,39,0.5,0.5,2,0,0.3,42.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3ffe48>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3ff668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af43f60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b4132b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae00a90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+1,"1/1/2018, 2:16:30 AM","1/1/2018, 2:21:11 AM",1,1.7,1,N,236,74,2,6.5,0.5,0.5,0,0,0.3,7.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3e6c50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b052588>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b17a748>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0492b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b185be0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b02c828>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ad7fbe0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b036048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b17a0f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b036898>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+1,"1/1/2018, 2:36:37 AM","1/1/2018, 2:44:45 AM",1,1,1,N,107,79,1,7,0.5,0.5,1.65,0,0.3,9.95,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b413b38>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf2748>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+1,"1/1/2018, 2:57:00 AM","1/1/2018, 3:18:57 AM",1,3.6,1,N,236,107,1,16,0.5,0.5,4.3,0,0.3,21.6,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b413f28>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b049da0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3e62b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b40c780>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af47b70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b193e48>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b198438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ade4828>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1ab7b8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af332b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b185550>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af24eb8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1ab438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afab400>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf29b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+1,"1/1/2018, 2:30:54 AM","1/1/2018, 3:04:50 AM",1,7.7,1,N,24,114,1,28.5,0.5,0.5,7.45,0,0.3,37.25,-,-
+
+1,"1/1/2018, 2:26:12 AM","1/1/2018, 2:32:02 AM",1,0.8,1,N,141,140,2,5.5,0.5,0.5,0,0,0.3,6.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b05d320>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afb4048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afbfda0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b413048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afbf588>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afcb748>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae00b70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3ffa20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afb43c8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+1,"1/1/2018, 2:42:52 AM","1/1/2018, 3:02:49 AM",1,3.6,1,N,141,224,2,15,0.5,0.5,0,0,0.3,16.3,-,-
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af474e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afab048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0b48d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b02c438>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0d94a8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afe4d68>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0b4588>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b049f60>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2,"1/1/2018, 2:35:45 AM","1/1/2018, 2:43:32 AM",1,1.68,1,N,13,231,1,7.5,0.5,0.5,1.76,0,0.3,10.56,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0525f8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0c07f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1852e8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afdb4e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b413a20>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afdbf98>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afe4978>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+2,"1/1/2018, 2:16:45 AM","1/1/2018, 2:30:11 AM",2,1.5,1,N,114,249,1,10,0.5,0.5,2.26,0,0.3,13.56,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0c0d30>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ad6ee80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b080a58>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0e6588>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0e6cc0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b071160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0717f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf2470>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+1,"1/1/2018, 2:25:32 AM","1/1/2018, 2:37:21 AM",1,0.9,1,N,237,161,2,8.5,0.5,0.5,0,0,0.3,9.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b036dd8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0d9c88>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b052b70>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1930f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+1,"1/1/2018, 2:31:20 AM","1/1/2018, 2:36:16 AM",1,0.6,1,N,244,116,2,5,0.5,0.5,0,0,0.3,6.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b036710>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85adf2828>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b0802e8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b40c6a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b1ab668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b40c9b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3e6048>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afb4128>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af47e80>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae000b8>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+2,"1/1/2018, 2:19:05 AM","1/1/2018, 2:29:36 AM",1,3.57,1,N,262,107,2,12.5,0.5,0.5,0,0,0.3,13.8,-,-
+1,"1/1/2018, 2:38:54 AM","1/1/2018, 2:45:48 AM",1,0.9,1,N,262,263,1,6.5,0.5,0.5,1,0,0.3,8.8,-,-
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ae10358>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afbf668>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3ff2b0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85af474e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85afbf080>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+2,"1/1/2018, 2:56:32 AM","1/1/2018, 3:45:44 AM",1,7.81,1,N,161,52,2,34.5,0.5,0.5,0,0,0.3,35.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3f3160>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b3ff780>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b413390>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85b08ac88>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fd85ade4630>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+
+
+

@@ -1,0 +1,22 @@
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://172.17.0.4:8000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 479-074-627
+172.17.0.1 - - [11/Dec/2023 14:29:43] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:29:52] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:29:54] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:30:37] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:30:39] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:30:51] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:31:50] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:31:54] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:31:55] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:00] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:02] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:07] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:10] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:19] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:32:55] "POST / HTTP/1.1" 200 -
+172.17.0.1 - - [11/Dec/2023 14:33:00] "POST / HTTP/1.1" 200 -

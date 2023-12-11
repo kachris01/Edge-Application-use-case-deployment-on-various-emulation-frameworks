@@ -1,0 +1,699 @@
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e89ea58>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e904c50>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8f5c50>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8bf710>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e634ef0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e85ba58>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8f5780>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e64b198>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e88ff60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e877f60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8b1940>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e65bba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:20:16 AM","1/1/2018, 2:53:04 AM",2,4.43,1,N,142,224,1,22.5,0.5,0.5,1,0,0.3,24.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86c748>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e65b518>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:59:03 AM","1/1/2018, 3:31:44 AM",1,6.65,1,N,233,223,2,24,0.5,0.5,0,0,0.3,25.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e877c88>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:06:56 AM","1/1/2018, 2:18:52 AM",1,1.8,1,N,148,125,1,9.5,0.5,0.5,2.15,0,0.3,12.95,-,-
+
+1,"1/1/2018, 2:28:30 AM","1/1/2018, 2:38:18 AM",1,1.4,1,N,4,137,1,8,0.5,0.5,1.85,0,0.3,11.15,-,-
+
+1,"1/1/2018, 2:31:35 AM","1/1/2018, 3:02:31 AM",1,4.5,1,N,48,148,2,22,0.5,0.5,0,0,0.3,23.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e665978>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8aa710>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5ca470>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5d7ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c593550>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5a1630>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5a1d68>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5d7358>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c589208>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:50:56 AM","1/1/2018, 3:15:53 AM",1,7.8,1,N,79,129,3,26,0.5,0.5,0,5.76,0.3,33.06,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86cb00>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52d780>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5e3358>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e634be0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c57dac8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8eb940>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570128>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5b1208>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e954198>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570c88>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52de10>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5ca0f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:55:19 AM","1/1/2018, 3:17:37 AM",2,8,1,N,230,243,1,25,0.5,0.5,4,0,0.3,30.3,-,-
+
+1,"1/1/2018, 2:18:31 AM","1/1/2018, 2:23:38 AM",2,0.7,1,N,43,236,1,5.5,0.5,0.5,1.35,0,0.3,8.15,-,-
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8f5d30>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c593710>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:57:50 AM","1/1/2018, 3:29:13 AM",1,8.7,1,N,148,42,2,28.5,0.5,0.5,0,0,0.3,29.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570940>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e65b588>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c593e10>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+1,"1/1/2018, 2:33:52 AM","1/1/2018, 2:42:18 AM",5,0.2,1,N,48,48,2,6.5,0.5,0.5,0,0,0.3,7.8,-,-
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e9614a8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e63f2b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e85b940>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4e7e48>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c503160>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:54:41 AM","1/1/2018, 2:58:04 AM",1,0.5,1,N,229,162,1,4,0.5,0.5,1.3,0,0.3,6.6,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5030f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c549c88>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4cb860>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d7da0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4f9080>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c48f2e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4bf5f8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e64bb00>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4cbc50>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4e7630>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c526cf8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4b3b38>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5193c8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c53bb38>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4726a0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c48fcc0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d78d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c47fa90>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c519cc0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+1,"1/1/2018, 2:44:11 AM","1/1/2018, 3:14:59 AM",2,2.1,1,N,161,68,1,18.5,0.5,0.5,3.95,0,0.3,23.75,-,-
+
+
+2,"1/1/2018, 2:18:31 AM","1/1/2018, 2:23:04 AM",1,1,1,N,141,263,1,5.5,0.5,0.5,1.36,0,0.3,8.16,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d74a8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e64bf98>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4cb080>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:10:02 AM","1/1/2018, 2:25:01 AM",1,1.69,1,N,114,137,1,10.5,0.5,0.5,1.2,0,0.3,13,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c519ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c47f278>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+1,"1/1/2018, 2:49:27 AM","1/1/2018, 3:07:12 AM",2,3.2,1,N,238,48,1,15,0.5,0.5,3.26,0,0.3,19.56,-,-
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52dbe0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3eac50>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4a7b00>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c413da0>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:46:21 AM","1/1/2018, 2:50:08 AM",1,0.86,1,N,141,262,1,5,0.5,0.5,1.26,0,0.3,7.56,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c43bdd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3bb7f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3ae320>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:31:35 AM","1/1/2018, 3:02:31 AM",1,4.5,1,N,48,148,2,22,0.5,0.5,0,0,0.3,23.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c44feb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4a0dd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3fa048>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4a7198>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c45efd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c430f98>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c413160>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:29:43 AM","1/1/2018, 2:40:15 AM",2,5.8,1,N,92,7,2,17.5,0.5,0.5,0,0,0.3,18.8,-,-
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3ca7f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3aeba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3fa898>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5d7f98>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:45:18 AM","1/1/2018, 2:58:18 AM",1,1.5,1,N,170,113,1,9.5,0.5,0.5,1.11,0,0.3,11.91,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e961320>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c559048>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8f5278>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5bdf60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c406940>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3bbf60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c44f630>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5195f8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86c710>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52df60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e982160>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c53b4a8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5b1ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4226a0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e904c50>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e904710>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:36:33 AM","1/1/2018, 2:42:59 AM",1,0.7,1,N,234,107,2,6,0.5,0.5,0,0,0.3,7.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c57d4e0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3bb080>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e60aef0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c559ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4309b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:39:59 AM","1/1/2018, 2:53:09 AM",2,1.3,1,N,164,107,1,9.5,0.5,0.5,2.15,0,0.3,12.95,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8f57b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c45e860>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:43:39 AM","1/1/2018, 3:09:38 AM",1,6.8,1,N,151,79,1,24.5,0.5,0.5,5.15,0,0.3,30.95,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c406128>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5ec87da0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:55:19 AM","1/1/2018, 3:17:37 AM",2,8,1,N,230,243,1,25,0.5,0.5,4,0,0.3,30.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3bb438>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e877b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:14:09 AM","1/1/2018, 2:33:40 AM",2,3.71,1,N,148,246,1,15.5,0.5,0.5,2,0,0.3,18.8,-,-
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c53b6d8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c519b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e65b278>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c57d320>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8ebbe0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5d7da0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52d3c8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4e7320>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5a1208>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8b1c50>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e64b4e0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5529e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c589f60>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4bf630>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4ebfd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d7dd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e946d68>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5036a0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e85b9b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5266a0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+2,"1/1/2018, 2:12:29 AM","1/1/2018, 2:16:56 AM",1,0.88,1,N,238,166,1,5.5,0.5,0.5,1.36,0,0.3,8.16,-,-
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5bd278>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4cb748>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86cfd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c549eb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c52d630>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:33:42 AM","1/1/2018, 2:50:59 AM",5,1.8,1,N,264,79,2,11.5,0.5,0.5,0,0,0.3,12.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c397fd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c472a90>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5a1e80>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:44:01 AM","1/1/2018, 3:02:55 AM",1,3.99,1,N,249,239,1,15.5,0.5,0.5,5.04,0,0.3,21.84,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4b3748>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c47f908>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c526438>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3dc8d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3dc080>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c55f7b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570cc0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5ecb5b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c47f5c0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d7160>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5ca9e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:54:41 AM","1/1/2018, 2:58:04 AM",1,0.5,1,N,229,162,1,4,0.5,0.5,1.3,0,0.3,6.6,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c519278>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5d7668>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c375668>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86c588>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c43b3c8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c48f470>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4ebb70>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5e35f8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5ea2d3c8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c593710>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3e6358>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d7400>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3eaa90>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8b1d30>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8bf438>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c48f320>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4e7c18>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c503ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c55f438>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:16:59 AM","1/1/2018, 2:22:33 AM",1,1,1,N,239,238,1,6,0.5,0.5,1.46,0,0.3,8.76,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e961550>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4d7da0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+2,"1/1/2018, 2:20:29 AM","1/1/2018, 2:26:43 AM",2,0.91,1,N,161,233,2,6,0.5,0.5,0,0,0.3,7.3,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5e3b00>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3970b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c552320>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4224e0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c472dd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3e6668>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+1,"1/1/2018, 2:53:00 AM","1/1/2018, 3:05:52 AM",3,5.6,1,N,132,216,2,17.5,0.5,0.5,0,0,0.3,18.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4bff60>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3060b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e88fac8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4bf4a8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c47f518>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2b0fd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2fcb38>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c363c50>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c503b00>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2d4390>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8cd5c0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c306a58>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4f9d68>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+1,"1/1/2018, 2:29:43 AM","1/1/2018, 2:40:15 AM",2,5.8,1,N,92,7,2,17.5,0.5,0.5,0,0,0.3,18.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e946b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e877128>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c34b7b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1d12b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c180390>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c389518>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c173ba8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2ed898>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c237cc0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1733c8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c22a7f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e8de208>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c18ec18>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:14:09 AM","1/1/2018, 2:33:40 AM",2,3.71,1,N,148,246,1,15.5,0.5,0.5,2,0,0.3,18.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c29eac8>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:54:14 AM","1/1/2018, 3:21:08 AM",2,4.91,1,N,90,255,1,20.5,0.5,0.5,4.36,0,0.3,26.16,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c269160>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:53:15 AM","1/1/2018, 3:17:11 AM",1,2.4,1,N,234,50,2,15.5,0.5,0.5,0,0,0.3,16.8,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c246588>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c34b160>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c133550>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c275390>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c22afd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c275eb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2512b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5a1f60>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c19a0b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c570a90>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1dd1d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c355278>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c25d860>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1a6240>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c29e1d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2699e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2067b8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+2,"1/1/2018, 2:29:24 AM","1/1/2018, 2:48:55 AM",1,4.2,1,N,65,186,2,16.5,0.5,0.5,0,0,0.3,17.8,-,-
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c19a9b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c26bb38>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1ddeb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c18e7f0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c180fd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1e86d8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1492e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5704a8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c10bbe0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c119438>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c552470>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5499e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2de400>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2dea58>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1e8cf8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c26b128>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c3a45c0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0e0b00>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0e0208>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c092e48>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0bc2e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c119d30>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:45:24 AM","1/1/2018, 2:53:25 AM",1,1.55,1,N,148,107,1,7.5,0.5,0.5,1.76,0,0.3,10.56,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c251780>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1aaf98>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:53:00 AM","1/1/2018, 3:05:52 AM",3,5.6,1,N,132,216,2,17.5,0.5,0.5,0,0,0.3,18.8,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c246eb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1dd160>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c4b31d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1736d8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c057d30>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0925f8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c02edd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c03deb8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2908d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86cf28>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c206ef0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c064160>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0a06d8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c06cfd0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c2514e0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0d31d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c7cd6a0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c087d68>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0c7518>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0d39e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1dd1d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c212978>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c02ea20>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c087978>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c5bd6d8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c06c780>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 2:11:51 AM","1/1/2018, 2:21:47 AM",1,1.18,1,N,137,90,1,7.5,0.5,0.5,1.76,0,0.3,10.56,-,-
+
+
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0bcb00>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:19:39 AM","1/1/2018, 2:31:58 AM",2,1.3,1,N,232,79,2,9,0.5,0.5,0,0,0.3,10.3,-,-
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c7cdef0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c7bebe0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5e86cb38>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c78f198>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c04a128>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:57:00 AM","1/1/2018, 3:01:37 AM",1,1.1,1,N,48,143,2,6,0.5,0.5,0,0,0.3,7.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c764908>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1d1e48>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1335f8>: Failed to establish a new connection: [Errno 113] No route to host',))
+1,"1/1/2018, 2:22:25 AM","1/1/2018, 2:54:24 AM",2,2.2,1,N,43,164,1,19,0.5,0.5,3,0,0.3,23.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c78fa58>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c251550>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c74b588>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c7a84e0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c173a20>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c1dd400>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c212630>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c5fb668>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6df8d0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c65f2b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c679a20>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c04ab38>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c68ae80>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6ad908>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6ee128>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6c0b38>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c65ff60>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b5c0c7438>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6a3908>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c63bdd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c63b390>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c710cf8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c647ac8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c727668>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c710438>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c736f28>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c71b588>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c7beac8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c736358>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6c0358>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c71bdd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c736b70>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c605780>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6795c0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c647630>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+2,"1/1/2018, 2:51:06 AM","1/1/2018, 3:14:49 AM",1,9.63,1,N,236,231,1,29,0.5,0.5,6,0,0.3,36.3,-,-
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c679dd8>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c65f710>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c66de80>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4b4c6152e8>: Failed to establish a new connection: [Errno 113] No route to host',))
+

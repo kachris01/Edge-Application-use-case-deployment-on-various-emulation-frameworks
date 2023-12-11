@@ -1,0 +1,10 @@
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+data is lost
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+data is lost
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+data is lost
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+data is lost
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+data is lost
