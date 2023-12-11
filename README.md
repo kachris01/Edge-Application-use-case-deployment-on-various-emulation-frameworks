@@ -11,13 +11,13 @@ You need a [working installation of docker](https://docs.docker.com/engine/insta
 docker run hello-world
 ```
 
-##Fogify-Demo
+## Fogify-Demo
 
 
 
 
 
-##Containernet
+## Containernet
 As we had problems with containernet installation option 1, we procude with option 2:
 You can build the container locally:
 
