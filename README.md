@@ -33,17 +33,23 @@ Run command
 ```sh
 sudo sh ./build-image.sh
 ```
-To run the taxi example in fogify: In directory fogify-demo-master/demo_files/ 
-run command 
+Run the taxi example in fogify.
+In directory fogify-demo-master/demo_files/ run command: 
 ```sh
 docker-compose up
 ```
 
 
-
-
-
 ## Marvis
+Move to marvis-master directory and run the following command to start a Docker container:
+```sh
+docker run -it --rm --cap-add=ALL -v /var/run/docker.sock:/var/run/docker.sock -v $(pwd)/examples:/marvisscenarios --net host --pid host --userns host --privileged ghcr.io/diselab/marvis:latest /bin/bash
+```
+To execute the application run inside the container:
+```sh
+cd marvisscenarios
+python3 taxi.py
+```
 
 ## Containernet
 As we had problems with containernet installation option 1, we procude with option 2:
