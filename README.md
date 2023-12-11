@@ -33,8 +33,7 @@ Run command
 ```sh
 sudo sh ./build-image.sh
 ```
-Run the taxi example in fogify.
-In directory fogify-demo-master/demo_files/ run command: 
+To run the taxi example in fogify, In directory fogify-demo-master/demo_files/ run command: 
 ```sh
 docker-compose up
 ```
@@ -69,4 +68,10 @@ You can then start the containernet. You can change the volumes as needed with y
 
 ```bash
 docker run --name containernet -it --rm --privileged --pid='host' -v /var/run/docker.sock:/var/run/docker.sock -v /home/$USER/Desktop/containernet/examples/basic_webserver/:/home/$USER/Desktop/containernet/examples/basic_webserver/ containernet/containernet bash
+```
+
+To execute the application run inside the container:
+```sh
+cd /home/$USER/Desktop/containernet/examples/basic_webserver
+python3 taxi.py
 ```
