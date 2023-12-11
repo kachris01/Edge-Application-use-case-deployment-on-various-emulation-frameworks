@@ -1,0 +1,32 @@
+name: Build images, smoke test, and push if on master
+'on':
+  - push
+  - pull_request
+  - workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          path: repo
+
+      - name: Build all images
+        run: make -C repo all latest
+
+      - name: Smoke test
+        run: make -C repo smoke-test-marvis
+
+      - name: Login to GitHub Container Registry
+        if: github.ref == 'refs/heads/master'
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: ${{ github.repository_owner }}
+          password: ${{ secrets.CR_PAT }}
+
+      - name: Push latest images
+        if: github.ref == 'refs/heads/master'
+        run: make -C repo push-latest
