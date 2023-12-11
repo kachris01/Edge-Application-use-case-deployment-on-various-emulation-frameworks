@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "edge_server.py", line 2, in <module>
+    from utils.edge_fuctionality import propagate
+  File "/code/utils/edge_fuctionality.py", line 27
+    for fog_node in ['mec-svc-1':
+                                ^
+SyntaxError: invalid syntax

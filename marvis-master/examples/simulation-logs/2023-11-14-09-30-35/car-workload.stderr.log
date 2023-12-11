@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "collect_metrics.py", line 4, in <module>
+    from utils.edge_fuctionality import get_random_metrics, propagate_to_edge
+  File "/code/utils/edge_fuctionality.py", line 27
+    for fog_node in ['mec-svc-1':
+                                ^
+SyntaxError: invalid syntax
