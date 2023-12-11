@@ -1,0 +1,14 @@
+waiting for network connection ...
+PING pong (10.0.0.2): 56 data bytes
+64 bytes from 10.0.0.2: seq=20 ttl=64 time=4794.754 ms
+64 bytes from 10.0.0.2: seq=21 ttl=64 time=3993.251 ms
+64 bytes from 10.0.0.2: seq=22 ttl=64 time=3193.048 ms
+64 bytes from 10.0.0.2: seq=23 ttl=64 time=2543.766 ms
+64 bytes from 10.0.0.2: seq=24 ttl=64 time=1737.102 ms
+64 bytes from 10.0.0.2: seq=25 ttl=64 time=935.719 ms
+64 bytes from 10.0.0.2: seq=26 ttl=64 time=425.109 ms
+64 bytes from 10.0.0.2: seq=27 ttl=64 time=402.420 ms
+64 bytes from 10.0.0.2: seq=28 ttl=64 time=407.444 ms
+64 bytes from 10.0.0.2: seq=29 ttl=64 time=407.304 ms
+64 bytes from 10.0.0.2: seq=30 ttl=64 time=401.756 ms
+64 bytes from 10.0.0.2: seq=31 ttl=64 time=401.886 ms
