@@ -1,0 +1,18 @@
+PING pong (10.0.0.2): 56 data bytes
+64 bytes from 10.0.0.2: seq=21 ttl=64 time=4503.029 ms
+64 bytes from 10.0.0.2: seq=22 ttl=64 time=3694.451 ms
+64 bytes from 10.0.0.2: seq=23 ttl=64 time=2889.920 ms
+64 bytes from 10.0.0.2: seq=24 ttl=64 time=2103.651 ms
+64 bytes from 10.0.0.2: seq=26 ttl=64 time=805.789 ms
+64 bytes from 10.0.0.2: seq=27 ttl=64 time=811.231 ms
+64 bytes from 10.0.0.2: seq=28 ttl=64 time=1055.491 ms
+64 bytes from 10.0.0.2: seq=29 ttl=64 time=991.392 ms
+64 bytes from 10.0.0.2: seq=30 ttl=64 time=819.014 ms
+64 bytes from 10.0.0.2: seq=31 ttl=64 time=1005.529 ms
+64 bytes from 10.0.0.2: seq=32 ttl=64 time=896.307 ms
+64 bytes from 10.0.0.2: seq=33 ttl=64 time=1291.167 ms
+64 bytes from 10.0.0.2: seq=34 ttl=64 time=1403.182 ms
+64 bytes from 10.0.0.2: seq=35 ttl=64 time=803.507 ms
+64 bytes from 10.0.0.2: seq=36 ttl=64 time=805.954 ms
+64 bytes from 10.0.0.2: seq=37 ttl=64 time=802.275 ms
+64 bytes from 10.0.0.2: seq=38 ttl=64 time=809.245 ms
