@@ -5,6 +5,7 @@ Fog and Edge Computing have become crucial when it comes to connecting the gap b
 
 ## Prerequisites 
 You need to have **Ubuntu 20.04 Focal Fossa**
+
 You need a [working installation of docker](https://docs.docker.com/engine/install/ubuntu/). You can test your docker installation with:
 ```sh
 docker run hello-world
