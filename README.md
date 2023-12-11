@@ -11,6 +11,12 @@ You need a [working installation of docker](https://docs.docker.com/engine/insta
 docker run hello-world
 ```
 
+##Fogify-Demo
+
+
+
+
+
 ##Containernet
 As we had problems with containernet installation option 1, we procude with option 2:
 You can build the container locally:
@@ -25,7 +31,7 @@ or alternatively pull the latest pre-build container:
 docker pull containernet/containernet
 ```
 
-You can then  start the containernet:
+You can then start the containernet. You can change the volumes as needed with your files and directories:
 
 ```bash
 docker run --name containernet -it --rm --privileged --pid='host' -v /var/run/docker.sock:/var/run/docker.sock -v /home/$USER/Desktop/containernet/examples/basic_webserver/:/home/$USER/Desktop/containernet/examples/basic_webserver/ containernet/containernet bash
