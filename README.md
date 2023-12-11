@@ -75,3 +75,14 @@ To execute the application run inside the container:
 cd /home/$USER/Desktop/containernet/examples/basic_webserver
 python3 taxi.py
 ```
+If a problem like "Conflict ("Conflict. The container name "/mn.mec-svc-1" is already in use by container "ea841c6202383e85692417509cb4bd81a8c0161ae521742589d25b1f2d2aaed7". You have to remove (or rename) that container to be able to reuse that name."))" is occupied run the command: 
+```sh
+sudo mn -c
+```
+or
+```sh
+docker ps
+docker stop <ids>
+docker rm $(docker ps -a -q)
+```
+where <ids> are the ids of the containers we want to stop
