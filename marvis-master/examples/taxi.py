@@ -1,6 +1,5 @@
 from marvis import ArgumentParser, Network, DockerNode, SwitchNode, Scenario
 
-
 def main():
     scenario = Scenario()
     
@@ -36,14 +35,11 @@ def main():
     channel5.connect(switch3)
     channel5.connect(cloud_server)
 
-    
-
     scenario.add_network(net)
    
     with scenario as sim:
         # To simulate forever, do not specify the simulation_time parameter.
         sim.simulate(simulation_time=600)
-
 
 if __name__ == "__main__":
     parser = ArgumentParser()
