@@ -1,0 +1,52 @@
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f690396e208>: Failed to establish a new connection: [Errno 113] No route to host',))
+2,"1/1/2018, 3:01:06 AM","1/1/2018, 3:21:30 AM",1,4.11,1,N,233,239,2,16,0.5,0.5,0,0,0.3,17.3,-,-
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f690398a780>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f6903979550>: Failed to establish a new connection: [Errno 113] No route to host',))
+HTTPConnectionPool(host='cloud-server', port=8000): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f690396e9b0>: Failed to establish a new connection: [Errno 113] No route to host',))
+
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+1,"1/1/2018, 2:39:32 AM","1/1/2018, 3:00:15 AM",2,2.7,1,N,237,137,1,14.5,0.5,0.5,3.15,0,0.3,18.95,-,-
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+1,"1/1/2018, 2:23:47 AM","1/1/2018, 2:33:45 AM",2,2,1,N,142,236,1,9.5,0.5,0.5,3,0,0.3,13.8,-,-
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+1,"1/1/2018, 2:55:38 AM","1/1/2018, 3:05:22 AM",1,1,1,N,186,68,1,8,0.5,0.5,2.75,0,0.3,12.05,-,-
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
