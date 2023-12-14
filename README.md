@@ -38,6 +38,8 @@ To run the taxi example in fogify, In directory fogify-demo-master/demo_files/ r
 docker-compose up
 ```
 
+You need to download yellow_tripdata_2018-01.csv file and specify its path in fogify-demo-master/demo_files/docker-compose.yaml file line 7
+
 
 ## Marvis
 Move to marvis-master directory and run the following command to start a Docker container:
